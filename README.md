@@ -2,7 +2,7 @@
 
 ### Node.js and Service Workers
 
-Este proyecto de ejemplo te sumerge en el funcionamiento de las notificaciones web mediante el uso de Service Workers. Exploraremos la implementación básica de notificaciones push y su interacción con un service worker.
+En este repositorio puedes observar como se usa este servicio "Service Workers" en diferentes tecnologias como Node, Next.js, etc
 
 ## Service Workers
 
