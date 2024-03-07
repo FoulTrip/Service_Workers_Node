@@ -2,8 +2,9 @@
 
 ### Node.js and Service Workers
 
-Este proyecto fue creado para que puedas entender de manera clara y sencilla cómo gestionar y enviar notificaciones web en tiempo real. En este ejemplo, utilizo Node.js, Express y otras tecnologías para presentarte un formulario interactivo que simula la experiencia de enviar y recibir notificaciones personalizadas a través de la web.
-## Screenshots
+Este proyecto de ejemplo te sumerge en el funcionamiento de las notificaciones web mediante el uso de Service Workers. Exploraremos la implementación básica de notificaciones push y su interacción con un service worker.
+
+## Service Workers
 
 ![App Screenshot](https://res.cloudinary.com/df2gu30lb/image/upload/v1709798115/v7e1a5zjn9vi1nkpf3ny.webp)
 
