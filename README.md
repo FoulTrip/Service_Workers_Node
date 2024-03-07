@@ -17,5 +17,3 @@ Un ejemplo común es gestionar las **Notificaciones Push**. Cuando la página we
 Además, los Service Workers también pueden ayudar a mejorar la velocidad de carga de la página almacenando en caché recursos necesarios, lo que significa que algunas cosas pueden cargarse más rápidamente, ¡incluso cuando estás offline!
 
 En resumen, piensa en un Service Worker como un pequeño ayudante detrás de escena que maneja tareas importantes, como notificaciones y almacenamiento en caché, para hacer que tu experiencia en la web sea más rápida y eficiente. ¡Es como tener un asistente personal para tu navegador!
-
-## Guias
