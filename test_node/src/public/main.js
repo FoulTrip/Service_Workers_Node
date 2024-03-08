@@ -45,6 +45,7 @@ function urlBase64ToUint8Array(base64String) {
 // UI
 const form = document.querySelector("#formSendEvents");
 const message = document.querySelector("#message");
+
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   fetch("/new-message", {

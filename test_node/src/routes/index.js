@@ -19,7 +19,9 @@ router.post("/new-message", async (req, res) => {
     title: "TripCode",
     message,
   });
+
   res.status(200).json();
+
   try {
     await webpush.sendNotification(pushSubscripton, payload);
   } catch (error) {
